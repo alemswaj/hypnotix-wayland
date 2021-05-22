@@ -1,10 +1,10 @@
-# Maintainer: Linux Mint <root@linuxmint.com>
-# Contributor: Maël <alemswaj+tutanota+com>
+# This is just the package from the linuxmint repositories modified to work with wayland
+# Maintainer: Maël <alemswaj+tutanota+com>
 
 pkgname=hypnotix-wayland
 pkgver=1.6
 pkgrel=1
-pkgdesc="An IPTV streaming application"
+pkgdesc="An IPTV streaming application. (With Wayland support). It's the package from the linux mint repositories modified to work with wayland as it's whrite on the hypnotix's github repository. It work great even if you're using x11"
 arch=(any)
 url="https://github.com/linuxmint/hypnotix"
 license=(GPL3)
