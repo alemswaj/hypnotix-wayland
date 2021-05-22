@@ -4,3 +4,4 @@
 <a href="https://aur.archlinux.org/packages/hypnotix-wayland/">
   <img src="https://aur.archlinux.org/css/archnavbar/aurlogo.png" />
   </a>
+ <p>Or you can install it from the prebuild version</p>
